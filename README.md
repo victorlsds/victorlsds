@@ -1,5 +1,7 @@
 <h1>👋 I’m @victorlsds! </h1>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
  <p> Hello, I'm Victor Lucas, a student of Analysis and Systems Development at the Federal Institute and at FIAP in Brazil. Currently, I'm working as an intern in the Quality Assurance (QA) area, where I have the opportunity to learn and apply my knowledge in software testing. </p>
   <li>👀 I’m interested in web development, and fullstack programming but i'm totally new in tech area, so everything is welcome.</li>
   <li>💞️ I’m looking to collaborate on new projects, so i 'm open to learn</li>
