@@ -27,5 +27,8 @@
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
 </p>
 <div id="header" align="center">
+<!--   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlsds&layout=compact&langs_count=7&theme=dracula"/> -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+
+![Snake animation](https://github.com/victorlsds/victorlsds/blob/output/github-contribution-grid-snake.svg)
